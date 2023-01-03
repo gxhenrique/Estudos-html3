@@ -1,0 +1,16 @@
+body{
+    background-color: linen;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+     
+}
+.principal{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#segundo{
+   text-align: center; 
+}

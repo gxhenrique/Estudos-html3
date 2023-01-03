@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    background-color: #53fa85;
+}
+
+header{
+    background-color: #12A33E;
+    color: white;
+    box-shadow: inset 3px -19px 23px rgba(0, 0, 0, 0.308);
+    margin: -9px -8px 0px -9px;
+    padding: 10px;
+
+    
+}
+header h1{
+    text-align: center;
+}
+header p{
+    text-align: center;
+}
+header nav a{
+    margin: 2px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+nav a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+main{
+    margin: auto;
+    background-color: white;
+    text-align: justify;
+    padding: 10px;
+    width: 1000px;
+    
+}
+
+section{
+    width: auto;
+    margin: auto;
+}

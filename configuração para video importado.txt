@@ -1,0 +1,16 @@
+div.videoteste iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+div.videoteste{
+    position: relative;
+    background-color: var(--cor3);
+    padding: 20px;
+    margin: 0px -10px ;
+    padding-bottom: 59%;
+
+}

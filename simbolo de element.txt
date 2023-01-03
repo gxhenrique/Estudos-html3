@@ -1,0 +1,5 @@
+# = id
+. = class
+: = Pseudo-class
+:: =pseudo-element
+> = children
