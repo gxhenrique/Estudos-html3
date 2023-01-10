@@ -16,7 +16,13 @@
 }
 
 body{
-    background-color: black;
+    background-image: url(imagens/gray-2377731_960_720.jpg);
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    min-height: 100vh;
 }
 main{
     background-color: white;
@@ -55,6 +61,7 @@ main{
     margin: auto;
     text-align: justify;
     background-color: black;
+    
 
 }
 p{
@@ -151,8 +158,8 @@ a:hover{
 footer{
     text-align: center;
     font-size: 1.3em;
-    background-image: linear-gradient(to right, var(--cor2),  var(--cor5));
-    padding: px;
+    background-color: black;
+    padding: 1px;
     border-radius: 3px;
    
     

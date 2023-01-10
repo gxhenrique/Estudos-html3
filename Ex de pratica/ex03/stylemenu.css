@@ -20,6 +20,7 @@ h1.h1menu{
     margin-right: 100px ;
 }
 header nav a{
+    
     margin-right: 30px;
     font-size: 1em;
     font-family: var(--fonte-01);
@@ -28,9 +29,11 @@ header nav a{
 }
 
 nav{
-    background-color: rgb(3, 3, 3);
-    padding: 20px;
+    background-image: linear-gradient(to right, black,  black);
+    
+    padding: 40px 41px 40px 20px;
     border-radius: 2px;
     text-align: center;
     
 }
+
