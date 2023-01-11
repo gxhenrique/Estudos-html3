@@ -1,0 +1,21 @@
+Hierarquia de tabelas (simples)
+
+table= tabela
+	table row= linha de tabela
+		table header= cabeçalho de tabela
+		table data= dado de tabela  
+
+
+
+
+Anatomia para tabelas grandes
+table
+	THEAD
+	    TR, TD,TH
+	TBODY 
+	    TR, TD,TH
+	TFOOT
+	    TR, TD,TH
+
+
+
